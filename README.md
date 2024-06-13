@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning integrating DS in production with hardware
 - 💞️ I’m looking to collaborate on any data projects
-- 📫 How to reach me: dqvu.ubc@gmail.com
+- 📫 How to reach me: dqvu.ubc@gmail.com/ Personal Github Repo: https://github.com/duongvu39
 - 😄 Pronouns: She/Her
 
 <!---
